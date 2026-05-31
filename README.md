@@ -18,7 +18,7 @@
 ```javascript
 const developer = {
   name: "Mohamed Elserety",
-  role: "Frontend Tech Lead & System Architect",
+  role: "Staff Engineer | FE Tech Lead",
   philosophy: "Surgical precision. Clean, scalable, performance-driven UI.",
   coreStack: ["React 19", "Angular 21", "TypeScript", "Capacitor", "TailwindCSS v4"],
   architecture: ["Monorepos", "Design Systems", "CI/CD Pipelines", "Zoneless Angular", "Mobile wrappers"]
